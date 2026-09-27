@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi==0.115.*
+uvicorn[standard]==0.32.*
+python-multipart==0.0.*
+pydantic-settings==2.*
+psycopg[binary]==3.2.*
+pgvector==0.3.*
+PyMuPDF==1.24.*
+pytesseract==0.3.*
+Pillow==10.*
+sentence-transformers==3.*
+torch==2.4.*
+numpy<2
+anthropic>=0.40
+bcrypt>=4.2
+PyJWT>=2.9
